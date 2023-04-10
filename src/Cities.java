@@ -3,6 +3,7 @@ public class Cities {
         System.out.println("To visit Denpasar");
         System.out.println("To visit Bali");
         System.out.println("To visit Krabi");
+        System.out.println("To visit Phuket");
 
     }
 }
