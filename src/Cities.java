@@ -1,5 +1,9 @@
 public class Cities {
-    public void toVisit(){
-        System.out.println("To visit Bremen");
+    public static void main(String[] args) {
+        System.out.println("To visit Denpasar");
+        System.out.println("To visit Bali");
+        System.out.println("To visit Krabi");
+        System.out.println("To visit Phuket");
+
     }
 }
